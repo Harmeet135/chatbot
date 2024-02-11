@@ -1,4 +1,4 @@
-## ChatBot
+## ChatBot (for custom data)
 
 # To run locally 
 - Fork the github repo or install locally
